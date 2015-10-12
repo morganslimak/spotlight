@@ -1,0 +1,7 @@
+#overlay {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-image: url("lake_mountain.jpg");
+	background-repeat: no-repeat;
+}
